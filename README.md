@@ -1,9 +1,8 @@
-# Intelligent Document Q&A Assistant (Agentic RAG)
+## Intelligent Document Q&A Assistant (Agentic RAG)
 
-## Overview
+Overview:
 This project implements an intelligent document assistant that allows users to upload PDF documents and interact with them using natural language queries.
-The system combines **Retrieval-Augmented Generation (RAG)** with a **multi-tool agent architecture** to generate accurate, context-aware, and explainable responses grounded in the document.
----
+The system combines **Retrieval-Augmented Generation (RAG)** with a **multi-tool agent architecture** to generate accurate, context-aware, and explainable responses grounded in the document.---
 ## Key Features
 - PDF document ingestion and processing  
 - Semantic search using vector embeddings  
